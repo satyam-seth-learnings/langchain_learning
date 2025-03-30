@@ -1,0 +1,1 @@
+- [LangChain Prompt Templates](https://python.langchain.com/docs/concepts/prompt_templates/)
