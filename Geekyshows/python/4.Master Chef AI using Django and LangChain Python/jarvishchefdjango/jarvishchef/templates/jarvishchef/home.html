@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{% static 'jarvishchef/css/style.css' %}">
+    <title>Jarvish Master Chef</title>
+</head>
+<body>
+    <h1>Ask your recipe - AI Master Chef</h1>
+    <form method="post" action="{% url 'home' %}">
+        {% csrf_token %}
+        {{form.recipe_message}}
+        <button type="submit">Ask</button>
+    </form>
+    <pre>{{ ai_recipe }}</pre>
+</body>
+</html>
