@@ -1,0 +1,1 @@
+- [LangChain Few Sort](https://python.langchain.com/docs/how_to/few_shot_examples_chat/#create-prompt-template)
