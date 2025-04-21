@@ -1,0 +1,7 @@
+langchain==0.3.21
+python-decouple==3.8
+langchain-openai==0.3.11
+langchain-community==0.3.21
+beautifulsoup4==4.13.4
+lxml==5.3.2
+pypdf==5.4.0

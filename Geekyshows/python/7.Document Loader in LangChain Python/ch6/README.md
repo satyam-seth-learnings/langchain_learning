@@ -1,0 +1,1 @@
+- [LangChain Document Loader](https://python.langchain.com/docs/integrations/document_loaders/)
