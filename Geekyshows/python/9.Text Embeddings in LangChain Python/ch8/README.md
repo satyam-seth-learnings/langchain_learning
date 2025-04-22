@@ -1,0 +1,1 @@
+- [Embedding models](https://python.langchain.com/docs/concepts/embedding_models/)
