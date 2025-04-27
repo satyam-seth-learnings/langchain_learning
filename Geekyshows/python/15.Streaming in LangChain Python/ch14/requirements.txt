@@ -1,0 +1,5 @@
+langchain==0.3.21
+python-decouple==3.8
+langchain-openai==0.3.11
+duckduckgo_search==8.0.1
+langchainhub==0.1.21
