@@ -1,0 +1,5 @@
+langchain==0.3.21
+python-decouple==3.8
+huggingface-hub==0.30.2
+torch==2.7.0
+transformers==4.51.3
