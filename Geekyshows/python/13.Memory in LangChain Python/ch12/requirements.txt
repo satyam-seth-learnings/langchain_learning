@@ -1,0 +1,4 @@
+langchain==0.3.21
+python-decouple==3.8
+langchain-openai==0.3.11
+chromadb==1.0.3
