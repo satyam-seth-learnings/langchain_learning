@@ -1,0 +1,4 @@
+langchain==0.3.21
+python-decouple==3.8
+langchain-community==0.3.22
+pillow==11.2.1
