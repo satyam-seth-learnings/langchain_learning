@@ -9,3 +9,9 @@ uv init
 ```sh
 uv venv
 ```
+
+- Activate Virtual ENV
+
+```sh
+source .venv/bin/activate
+```
