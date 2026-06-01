@@ -15,3 +15,9 @@ uv venv
 ```sh
 source .venv/bin/activate
 ```
+
+- Install Dependencies
+
+```sh
+uv add -r requirements.txt
+```
