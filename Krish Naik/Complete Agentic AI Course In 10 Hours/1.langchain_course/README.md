@@ -21,3 +21,7 @@ source .venv/bin/activate
 ```sh
 uv add -r requirements.txt
 ```
+
+- Get [Google AI Studio API Key](https://aistudio.google.com/app/api-keys)
+
+- Get [GRAQ API Key](https://console.groq.com/keys)
