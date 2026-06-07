@@ -21,3 +21,7 @@ source .venv/bin/activate
 ```sh
 uv add -r requirements.txt
 ```
+
+- Get [GRAQ API Key](https://console.groq.com/keys)
+
+- Get [Tavily API Key](https://app.tavily.com/home)
